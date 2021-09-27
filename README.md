@@ -1,4 +1,4 @@
-# Kickstarter-Challenge
+**# Kickstarter-Challenge
 ## Analysis of Campaigns in Relation to Launch Dates and Funding Goals
 ---
 ### Purpose
@@ -26,4 +26,4 @@ ADD IMAGE LINK
 ---
 ### Challenges and Difficulties Encountered
 One of the challenges in this particular project envolved the moving the analysis to GitHub. I was unable to independedly establish the SSH key.
-Additional analysis could be performed on the impact of the genre of the play and what impact that would have on the overall conclusion. 
+Additional analysis could be performed on the impact of the genre of the play and what impact that would have on the overall conclusion.**
