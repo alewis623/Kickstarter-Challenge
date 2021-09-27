@@ -16,6 +16,7 @@ The total kickstarter data set included 4114 data rows. Due to outliers in the d
 Reviewing the analysis of launch date the best time to launch a kickstarter would be late spring/ early summer. 
 The specific recomendation would be to launch in May or June. as the year progresses, the success of the outcomes reduces. 
 The launch month with the highest failure rate is October. 
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/90878901/134835039-ccd8dc39-d8c3-46de-abca-855167408057.png)
 
 ---
 ### Analysis of Outcomes Based on Goals
@@ -24,6 +25,7 @@ Reviewing the outcomes based on funding goals the most successful campaigns have
 These funding goals have the highest total number of projects. There is an area between $35000 and $45000 that is also a successful funding goal. 
 The $35000 to $45000 range has a very low number of projects (less than 1% of total)and does not follow the trending pattern of decline 
 in success that is seen as the funding goal increases. 
+![Outcomes_Based_on_Goal](https://user-images.githubusercontent.com/90878901/134835055-bd46b9fa-6216-45e6-93a7-f870b8e8687c.png)
 
 ---
 ### Challenges and Difficulties Encountered.
